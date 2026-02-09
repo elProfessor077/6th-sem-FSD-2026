@@ -1,0 +1,1 @@
+this data has been written through sync function of fs module
